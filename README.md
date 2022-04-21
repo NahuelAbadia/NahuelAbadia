@@ -23,7 +23,7 @@ I’m currently learning **TypeScript and Next.js** 🤓
 
 <hr/>
 
-<h3 align="left">My skills</h3>
+<h3 align="left">My skills 📝</h3>
 
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a>
@@ -43,7 +43,7 @@ I’m currently learning **TypeScript and Next.js** 🤓
 
 <hr/>
 
-<h3 align="left">My stats</h3>
+<h3 align="left">My stats 📊</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelabadia&show_icons=true&locale=en&layout=compact" alt="nahuelabadia" /></p>
 
