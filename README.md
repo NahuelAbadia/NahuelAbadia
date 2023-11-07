@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'am Nahuel Abadía</h1>
+<h1 align="left">Hi 👋, I'm Nahuel Abadía</h1>
 
 <h3 align="left">💻Frontend Developer💻</h3>
 
@@ -6,20 +6,13 @@
 
 <h3 align="left">About me 🤔</h3>
 
-I am a **proactive person**, **highly adaptable** and who wants to be constantly learning and improving.
+I am a proactive person, open to change, and eager to keep learning and improving constantly.
 
-I characterize myself for being **objective** and not stopping until I reach my goals.
+I am characterized by being goal-oriented and I don't stop until I achieve my goals.
 
-I usually do weekly projects to practice new frameworks and reinforce others already learned.
+I usually work on weekly projects to practice new frameworks and reinforce those I've already learned.
 
-I’m currently learning **TypeScript and Next.js** 🤓
-
-<hr/>
-
-<h3 align="left">Contact me 📫</h3>
-
-[![Linkedin: nahuelabadia](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-abadia/)](https://www.linkedin.com/in/nahuel-abadia/)
-<a href="mailto:nahuabadia@gmail.com"> <img src="https://camo.githubusercontent.com/0af8465a1c383130199de70e42c8513570ce4a1db1728272b14e95d9b249ed57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6665676c6c383740676d61696c2e636f6d" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahuabadia@gmail.com" /> </a>
+Currently, I am taking a design patterns course, and on the other hand, expanding my knowledge in the mobile world 🤓.
 
 <hr/>
 
@@ -43,7 +36,12 @@ I’m currently learning **TypeScript and Next.js** 🤓
 
 <hr/>
 
+<h3 align="left">Contact me 📫</h3>
+
+[![Linkedin: nahuelabadia](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-abadia/)](https://www.linkedin.com/in/nahuel-abadia/)
+<a href="mailto:nahuabadia@gmail.com"> <img src="https://camo.githubusercontent.com/0af8465a1c383130199de70e42c8513570ce4a1db1728272b14e95d9b249ed57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6665676c6c383740676d61696c2e636f6d" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahuabadia@gmail.com" /> </a>
+
 <h3 align="left">My stats 📊</h3>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelabadia&show_icons=true&locale=en&layout=compact" alt="nahuelabadia" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelabadia&show_icons=true&locale=en&layout=compact" alt="nahuelabadia" /></p>
 
