@@ -18,7 +18,7 @@ I’m currently learning **TypeScript and Next.js** 🤓
 
 <h3 align="left">Contact me 📫</h3>
 
-[![Linkedin: nahuelabadia](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-tomás-abadia/)](https://www.linkedin.com/in/nahuel-tomás-abadia/)
+[![Linkedin: nahuelabadia](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuel-abadia/)](https://www.linkedin.com/in/nahuel-abadia/)
 <a href="mailto:nahuabadia@gmail.com"> <img src="https://camo.githubusercontent.com/0af8465a1c383130199de70e42c8513570ce4a1db1728272b14e95d9b249ed57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6665676c6c383740676d61696c2e636f6d" alt="gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahuabadia@gmail.com" /> </a>
 
 <hr/>
